@@ -8,3 +8,6 @@
 
 
 ### 02_Improving_Deep_Neural_Networks
+* Week01_Practical_aspects_of_Deep_Learning
+* Week02_Optimization_Algorithms
+* Week03_Hyperparameter_tuning_Batch Normalization_Programming_Frameworks
