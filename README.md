@@ -1,21 +1,24 @@
 # Deep_Learning_Specialization
 
 ### 01-Neural Networks and Deep Learning
-* week01: introduction to deep learning
-* week02: neural networks basics
-* week03: shallow neural networks
-* week04: Deep Neural Netwrok
+* week 01: introduction to deep learning
+* week 02: neural networks basics
+* week 03: shallow neural networks
+* week 04: Deep Neural Netwrok
 
 
 ### 02-Improving Deep Neural Networks
-* Week01: Practical aspects of Deep Learning
-* Week02: Optimization Algorithms
-* Week03: Hyperparameter tuning Batch Normalization Programming Frameworks
+* Week 01: Practical aspects of Deep Learning
+* Week 02: Optimization Algorithms
+* Week 03: Hyperparameter tuning Batch Normalization Programming Frameworks
 
 
 ### 03-Structuring Machine Learning Projects
-* Week01: ML Strategy 01 
-* Week02: ML Strategy 02
+* Week 01: ML Strategy 01 
+* Week 02: ML Strategy 02
 
 
-
+### 04-Convolutional Neural Networks
+* Week 01: Foundations of Convolutional Neural Networks
+* Week 02: Convolution Model Application
+* Week 03:  
