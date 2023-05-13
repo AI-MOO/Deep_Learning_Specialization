@@ -20,5 +20,6 @@
 
 ### 04-Convolutional Neural Networks
 * Week 01: Foundations of Convolutional Neural Networks
-* Week 02: Convolution Model Application
-* Week 03:  
+* Week 02: Deep Convolutional Models: Case Studies     
+* Week 03: Object Detection 
+* Week 04: Special Applications: Face recognition & Neural Style Transfer
