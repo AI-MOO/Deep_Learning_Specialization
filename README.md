@@ -22,11 +22,11 @@
 * Week 01: Foundations of Convolutional Neural Networks ✅
 * Week 02: Deep Convolutional Models: Case Studies ✅     
 * Week 03: Object Detection ✅
-* Week 04: Special Applications: Face recognition & Neural Style Transfer 🚀
+* Week 04: Special Applications: Face recognition & Neural Style Transfer ✅
 
 
 ### 05-Sequence Models
-* Week 01: Recurrent Neural Networks
+* Week 01: Recurrent Neural Networks 🚀
 * Week 02: Natural Language Processing & Word Embeddings     
 * Week 03: Sequence Models & Attention Mechanism
 * Week 04: Transformer Network
