@@ -26,7 +26,7 @@
 
 
 ### 05-Sequence Models
-* Week 01: Recurrent Neural Networks 🚀
-* Week 02: Natural Language Processing & Word Embeddings     
+* Week 01: Recurrent Neural Networks ✅
+* Week 02: Natural Language Processing & Word Embeddings 🚀    
 * Week 03: Sequence Models & Attention Mechanism
 * Week 04: Transformer Network
